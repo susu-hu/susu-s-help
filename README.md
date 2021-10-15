@@ -20,3 +20,7 @@
 # 好用的好看的一些网站bui~
 
 ## [1.鼠标指针](https://zhutix.com/tag/cursors/)
+
+# 好用的配色网站bui~
+
+## [1.毒蘑菇配色](https://color.dumogu.top/)
