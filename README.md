@@ -24,3 +24,7 @@
 # 好用的配色网站bui~
 
 ## [1.毒蘑菇配色](https://color.dumogu.top/)
+
+## [2. CoolHue 2.0](https://webkul.github.io/coolhue/)
+
+## [3.uigradients](https://uigradients.com/#Anwar)
