@@ -41,5 +41,8 @@
 # 6、公众号和知乎排版神器
 ## [墨滴](https://mdnice.com/)
 
-# 7、前端tips
+# 7、web前端
 ## [前端规范指南](https://gitee.com/MinJieLiu/web-standard/)
+## [大屏数据展示](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi/)
+
+
