@@ -45,4 +45,5 @@
 ## [前端规范指南](https://gitee.com/MinJieLiu/web-standard/)
 ## [大屏数据展示](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi/)
 
-
+# 8、webpack
+## [官网](https://webpack.docschina.org/)
