@@ -45,6 +45,7 @@
 ## [前端规范指南](https://gitee.com/MinJieLiu/web-standard/)
 ## [大屏数据展示](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi/)
 ## [17素材网](https://www.17sucai.com/)
+## [雪碧图在线生成](https://www.toptal.com/developers/css/sprite-generator)
 
 # 8、webpack
 ## [官网](https://webpack.docschina.org/)
