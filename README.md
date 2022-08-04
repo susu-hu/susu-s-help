@@ -62,3 +62,12 @@
 
 # 11.VS CODE插件
 ## Markdown Preview Enhanced(Markdown实时预览)
+
+# 12. echarts社区
+## [PPChart](http://www.ppchart.com/#/)
+## [madeapie](https://madeapie.com/#/)
+## [echarts Demo集](https://www.isqqw.com/)
+## [MCChart](http://echarts.zhangmuchen.top/#/index)
+## [echart社区](https://www.makeapie.cn/echarts)
+
+
